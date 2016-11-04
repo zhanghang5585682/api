@@ -5,6 +5,19 @@ class IndexController extends Controller {
     function index(){
       echo '浩然是猪！';
       echo '浩然是猪！';
+      echo '浩然是猪！';
+      echo '浩然是猪！';
+      echo '浩然是猪！';
+      echo '浩然是猪！';
+      echo '浩然是猪！';
+      echo '浩然是猪！';
+      echo '浩然是猪！';
+      echo '浩然是猪！';
+      echo '浩然是猪！';
+      echo '浩然是猪！';
+      echo '浩然是猪！';
+      echo '浩然是猪！';
+      echo '浩然是猪！';
 
     }
     function creatjson(){
