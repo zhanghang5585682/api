@@ -6,10 +6,7 @@ class IndexController extends Controller {
       echo '浩然是猪！';
       echo '浩然是猪！';
       echo '浩然是猪！';
-      echo '浩然是猪！';
-      echo '浩然是猪！';
-      echo '浩然是猪！';
-      echo '浩然是猪！';
+
     }
     function creatjson(){
     	$arr=array(
